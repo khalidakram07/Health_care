@@ -1,2 +1,2 @@
 # Health_care
-Machine learning models executed on Python.
+Machine learning models for healthcare
