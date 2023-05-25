@@ -1,6 +1,6 @@
 # Health_care
 
-Machine learning models for healthcare
+Machine learning model for healthcare applications
 
 Algorithm : DecisionTree
 
